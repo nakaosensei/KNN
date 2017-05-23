@@ -1,0 +1,8 @@
+Abra o projeto no netbeans, no pacote br.com.run esta a classe Main, lá o caminho dos arquivos esta
+setado manualmente, os arquivos em src/br/com/files/base2 são os arquivos do teste mais complexo
+que você passou e os arquivos src/br/com/files/base1 são da base mais simples.
+
+Na função knn.executar(), passe como parametro o valor de k desejado.
+
+ex:
+knn.executar(3);
